@@ -1,0 +1,14 @@
+[
+  {
+    "id": "582dd74d-8b28-4c59-822e-37127a59d692",
+    "email": "user@example.com",
+    "password": "$2b$10$MV.syFWbiD9JBwgLg76Nm./J2G3IHS1j6RckrcxXYEgblIijCZPcK",
+    "role": "user"
+  },
+  {
+    "id": "4c589abc-1bd9-4cc6-bcad-eb0481cbc307",
+    "email": "admin@tracker.com",
+    "password": "$2b$10$9gWhzSwjIpGk/YuYJGHIGe1MWyuvNcr3ECfn2/tyXMn17ZLD6zMb6",
+    "role": "admin"
+  }
+]
